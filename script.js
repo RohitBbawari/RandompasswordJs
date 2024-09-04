@@ -15,6 +15,7 @@
         };
 
         const generatePassword = () => {
+            
             let password = "";
             let possibleCharacters = "";
 
@@ -37,6 +38,7 @@
             }
 
             passBox.innerText = password;
+            console.log(password);
         };
 
         document.getElementById("btn").addEventListener("click", generatePassword);

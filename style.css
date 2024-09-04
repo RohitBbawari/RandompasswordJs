@@ -37,7 +37,7 @@
         #pass-box {
             width: 100%;
             display: block;
-            background-color: white;
+            background-color: black;
             font-size: 30px;
             padding: 10px;
             border-radius: 4px;
@@ -49,7 +49,7 @@
             padding: 10px;
             margin-top: 10px;
             justify-content: space-between;
-            color: white;
+            color: black;
             font-size: 20px;
         }
 
